@@ -1,10 +1,24 @@
-# Drinking-Wine---Hackathon
+# Drinking-Wine---Hackathon  
+Link: https://devpost.com/software/dwine/edit  
+Demo: https://www.youtube.com/watch?v=IHdCtpWrdeQ
 
-Test
+## Inspiration  
+Inspired by the challenging tech industry where students and or people who may be unemployed that need more practice with tech company interview questions.
+## What it does  
+Provides 1:1 mock interview through a chat interface
+## How we built it  
+Learning new frameworks on the fly and applying them as quickly as possible
+## Challenges we ran into  
+Adapting to frameworks and work together as a team
+## Accomplishments that we're proud of  
+Being able to make the front end look amazing and to be able to tie this together with the back-end
+## What we learned  
+How to reorient ourselves when the team zoned in too much on one feature
+## What's next for Dwine  
+More features down the line, one feature would be pertaining to chat log system
+  
 
-
-
-# Directory
+# Directory  
         
 ```
 +---client
