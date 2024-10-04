@@ -1,5 +1,5 @@
 # Drinking-Wine---Hackathon  
-Link: https://devpost.com/software/dwine/edit  
+Link: https://devpost.com/software/dwine  
 Demo: https://www.youtube.com/watch?v=IHdCtpWrdeQ
 
 ## Inspiration  
